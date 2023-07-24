@@ -1,4 +1,4 @@
-<h1 align="center">Sheraprop</h1>
+<h1 align="center">Shareprop</h1>
 <p align="center">A property sharing netwrok app.</p>
 
 <p align="center"><em>This README would normally document whatever steps are necessary to get your application up and running.</em></p>
@@ -10,7 +10,7 @@
 - Quick summary
 - Version
 
-### How do I get set up?
+## How do I get set up?
 
 - Clone the repository by running the below command or as you prefer.
 
