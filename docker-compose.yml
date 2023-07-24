@@ -11,7 +11,11 @@ services:
     image: mysql:latest
     command: --default-authentication-plugin=mysql_native_password
     restart: always
+    volumes:
+      - "./db:/docker-entrypoint-initdb.d" 
     environment:
+      MYSQL_DATABASE: shareprop
+      MYSQL_USER: root
       MYSQL_ROOT_PASSWORD: root
 
   phpmyadmin:

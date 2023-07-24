@@ -108,7 +108,6 @@ $(document).ready(function() {
 			data: _data,
 			dataType:"json",
 			success:function(res){
-                console.log(res)
                 if(Array.isArray(res.data)) {
                     res.data.forEach(function(val, key) {
                         error(key, val);
