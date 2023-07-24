@@ -40,7 +40,7 @@
 ### Some Facts?
 
 - **DB connectio is refused?** Well, this may happen when MySQL server is not reday yet. Hold on some time it will connect automatically after the MySQL server is reday.
-- **Unknown database 'shareprop'?** Well, this may happen when you forgot to import the database. Please import the database.
+- **Unknown database 'shareprop'?** Well, this may happen when database auto import failed or you forgot to import the database. Please import the database.
 
 ### Still Need Help?
 
