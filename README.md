@@ -18,13 +18,14 @@
   git clone https://github.com/aminhossain/shareprop.git
   ```
 
-- Pull the images from Docker Hub from the below link
+- Pull the images from Docker Hub from the link below
 
   ```
   https://hub.docker.com/r/aminhossain/shareprop
   ```
 
-- build and run the images
+- Pull the images as per the tags
+- Build and run the images
 - Browse the PhpMyAdmin by below URL
   ```
     127:0:0:1:8002
